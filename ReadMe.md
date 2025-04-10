@@ -1,5 +1,23 @@
 # 💫 About Me:
-Olá , prazer! Meu nome é Maria Eduarda!<br>Sou estudante de Engenharia de Software - UNB;<br>Sou iniciante em área de desenvolvimento, atualmente estou me aprofundando em Orientação a Objetos, Backend, Noções de git e Análise de Dados;<br>Tenho conhecimentos em C e estou em processo de aprendizagem em Ruby, framework Ruby on Rails e Python (todos em noções básicas);<br>Estou a procura de conhecimentos para aprimorar minha caminhada como engenheira de Software, criação de novos projetos voltados para conhecimentos de desenvolvimentos web e projetos para crescimento individual de carreira;<br>Adoro fazer Networking e conhecer pessoas novas!;
+
+Olá! Muito prazer, me chamo Maria Eduarda 👋  
+Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)**, atualmente no 5º semestre, com grande interesse nas áreas de **Análise de Dados** e **Desenvolvimento Web**.
+
+Atualmente atuo como **bolsista de desenvolvimento Full Stack** no projeto **Brasil Participativo**, a plataforma oficial de participação digital do Governo Federal, onde colaboro com tecnologias como **Ruby on Rails**, **TypeScript**, **Playwright** e **Decidim**, em ambiente **Debian**.
+
+Concluí recentemente um **bootcamp de Análise de Dados Júnior** com ênfase em Python, SQL, estatística, tratamento e visualização de dados, além da criação de dashboards com Tableau.  
+Já desenvolvi projetos acadêmicos com **Django**, **Flutter**, **Supabase**, aplicando conceitos de orientação a objetos, controle de acesso, serialização e dockerização.
+
+🔍 Estou em constante aprendizado e construção de projetos que contribuam com minha jornada profissional como futura Engenheira de Software.  
+💻 Gosto de unir a prática com a teoria, trabalhar em equipe, aplicar metodologias ágeis e explorar soluções com impacto social.  
+🤝 Amo fazer networking e conhecer pessoas que também estão trilhando a área da tecnologia!
+
+---
+✨ **Tecnologias que tenho vivência:**  
+`Python` | `SQL` | `Ruby` | `TypeScript` | `Django` | `Ruby on Rails` | `Pandas` | `NumPy` | `Tableau` | `Flutter` | `Docker` | `Playwright`
+
+📬 Me chama para trocar ideias ou colab!
+
 
 
 ## 🌐 Socials:
